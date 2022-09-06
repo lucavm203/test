@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62b42ea61500bb79040ca218"
+  },
+  "lotterij_id": {
+    "$oid": "62b31d1c1500bb79040ca205"
+  },
+  "user_id": {
+    "$oid": "62b32d551500bb79040ca206"
+  }
+},{
+  "_id": {
+    "$oid": "62b431241500bb79040ca219"
+  },
+  "lotterij_id": {
+    "$oid": "62b31d1c1500bb79040ca205"
+  },
+  "user_id": {
+    "$oid": "62b32d611500bb79040ca207"
+  }
+},{
+  "_id": {
+    "$oid": "62b431401500bb79040ca21a"
+  },
+  "lotterij_id": {
+    "$oid": "62b31d1c1500bb79040ca205"
+  },
+  "user_id": {
+    "$oid": "62b32d6f1500bb79040ca208"
+  }
+},{
+  "_id": {
+    "$oid": "62b431991500bb79040ca21c"
+  },
+  "lotterij_id": {
+    "$oid": "62b31d1c1500bb79040ca205"
+  },
+  "user_id": {
+    "$oid": "62b431551500bb79040ca21b"
+  }
+}]

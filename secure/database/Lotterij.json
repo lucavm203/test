@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "62b31d1c1500bb79040ca205"
+  },
+  "lotterij_naam": "test",
+  "lotterij_datum": "2022-06-23T14:56",
+  "lotterij_prijs": "test",
+  "user_id": {
+    "$oid": "62b311101500bb79040ca204"
+  },
+  "gewonnen": "yes"
+}]
